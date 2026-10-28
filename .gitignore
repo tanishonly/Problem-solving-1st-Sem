@@ -1,0 +1,8 @@
+# C compiled files
+*.out
+*.o
+*.exe
+*.app
+
+# macOS system files
+.DS_Store
